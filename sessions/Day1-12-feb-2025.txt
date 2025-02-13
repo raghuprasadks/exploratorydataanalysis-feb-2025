@@ -1,0 +1,42 @@
+1. Write a program to create Product class
+having code,name,supplier and price as the
+attributes
+a. Create a constructor to accept above attributes
+as arguments
+b. Create info method to display the attributes
+received as arguments in the constructor
+
+2. Write a program to manage product.
+Name the class as ProductManagement
+This class will have following methods
+a.addProduct(product)
+this method should add product to productlist
+b.listProduct()
+this method should display all the products
+c.searchProductBySupplier(supplier)
+this method should display product by supplier
+d. searchbyPriceRange(min,max)
+
+3. Write a program to simulate working of Bank
+a. Create Account class having following attributes
+actnum,name,bank,branch,location
+b. Create a constructor using above attributes
+c. Write info method to return the values of attributes
+
+4. Write AccountManagement class having following methods
+a. createAccount(accountobj)
+this method should be added to accountslist 
+it should create zero balance account
+b.deposit(actnum,amttodeposit)
+this method should add amttodeposit to balance
+and return balance
+c.withdraw(actnum,amttowithdraw)
+this method should deduct amttowithdraw from balance
+and return balance
+d.checkbalance(actnum)
+this method should return the balance
+
+
+
+
+
