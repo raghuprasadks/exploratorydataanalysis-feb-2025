@@ -1,0 +1,88 @@
+Recap
+1. numpy - numerical python
+extension of list
+list 
+tuple
+dictionary
+set
+w3schools numpy
+https://www.w3schools.com/python/numpy/default.asp
+pip install numpy
+pypi.org
+
+googlecolab
+https://colab.research.google.com/
+
+2. pandas - tabular data
+3. matplotlib - visualization
+4. seaborn- visulization
+
+1. Download and install python
+2. set path 
+idle
+save as
+copy folder
+edit
+C:\Users\lenovo\AppData\Local\Programs\Python\Python38
+C:\Users\lenovo\AppData\Local\Programs\Python\Python38\Scripts
+
+3. create virtual environment
+create folder eda
+
+cmd
+
+create
+python -m venv myenv
+activate
+myenv\Scripts\activate
+pip install numpy
+pip install pandas matplotlib
+pip install jupyter
+
+jupyter notebook
+
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+4. download and install visual studio code
+
+
+https://kaushalya.tech
+click on git
+click on repositories
+click on first repository
+clone
+
+numpy - numerical python
+
+pandas 
+data series - time series
+
+data frame - tabular data
+
+
+
+Agenda:
+1. Pandas
+2. Matplotlib
+
+https://www.listendata.com/2017/12/python-pandas-tutorial.html
+
+https://startuptalky.com/top-unicorn-startups-india/
+
+Assignment
+1. open https://startuptalky.com/top-unicorn-startups-india/
+2. Create a image of the table which shows data of startup
+3. Create/download a csv file. Name it is startup.csv
+4. Create eda_startup.ipynb file in google colab
+5. Create a dataframe using the csv file
+6. Display first 5 startups
+7. Display last 5 startups
+8. Display randomly 10 startups
+9. Display data of startup name column
+10. Display startup which are founded after 2014
+11. Group startups industry and find the sum of current valuation
+
+https://www.kaggle.com/code/himanisingla123/covid-19-data-analysis
+ 
+
